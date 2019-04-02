@@ -1,4 +1,4 @@
-# Find Similar Domains - Chrome Extension - Dofo.com API
+# Find Similar Domain Names - Chrome Extension - Dofo.com API
 This chrome extension can find similar domains of active tab via Dofo.com
 
 To Do;
